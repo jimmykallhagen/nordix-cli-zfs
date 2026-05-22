@@ -1,5 +1,11 @@
 # Nordix CLI tools for managing an ZFS system from maintenance to troubleshooting
 
+**Part of:** [Nordix](https://github.com/jimmykallhagen/Nordix)  
+**Author:** Jimmy Källhagen  
+**License:** GPL-3.0-or-later
+
+---
+
 ```Fish
 NARTIC='\033[38;2;156;230;255m'
 echo -e "$NARTIC
